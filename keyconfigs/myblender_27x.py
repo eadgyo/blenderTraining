@@ -7350,7 +7350,7 @@ keyconfig_data = \
       },
      ),
     ("mesh.loop_select",
-     {"type": 'RIGHTMOUSE', "value": 'PRESS', "alt": True},
+     {"type": 'LEFTMOUSE', "value": 'PRESS', "alt": True},
      {"properties":
       [("extend", False),
        ("deselect", False),
@@ -7359,7 +7359,7 @@ keyconfig_data = \
       },
      ),
     ("mesh.loop_select",
-     {"type": 'RIGHTMOUSE', "value": 'PRESS', "shift": True, "alt": True},
+     {"type": 'LEFTMOUSE', "value": 'PRESS', "shift": True, "alt": True},
      {"properties":
       [("extend", False),
        ("deselect", False),
@@ -7368,7 +7368,7 @@ keyconfig_data = \
       },
      ),
     ("mesh.edgering_select",
-     {"type": 'RIGHTMOUSE', "value": 'PRESS', "ctrl": True, "alt": True},
+     {"type": 'LEFTMOUSE', "value": 'PRESS', "ctrl": True, "alt": True},
      {"properties":
       [("extend", False),
        ("deselect", False),
@@ -7377,7 +7377,7 @@ keyconfig_data = \
       },
      ),
     ("mesh.edgering_select",
-     {"type": 'RIGHTMOUSE', "value": 'PRESS', "shift": True, "ctrl": True, "alt": True},
+     {"type": 'LEFTMOUSE', "value": 'PRESS', "shift": True, "ctrl": True, "alt": True},
      {"properties":
       [("extend", False),
        ("deselect", False),
@@ -11492,14 +11492,14 @@ keyconfig_data = \
       },
      ),
     ("uv.select_loop",
-     {"type": 'RIGHTMOUSE', "value": 'PRESS', "alt": True},
+     {"type": 'LEFTMOUSE', "value": 'PRESS', "alt": True},
      {"properties":
       [("extend", False),
        ],
       },
      ),
     ("uv.select_loop",
-     {"type": 'RIGHTMOUSE', "value": 'PRESS', "shift": True, "alt": True},
+     {"type": 'LEFTMOUSE', "value": 'PRESS', "shift": True, "alt": True},
      {"properties":
       [("extend", True),
        ],
